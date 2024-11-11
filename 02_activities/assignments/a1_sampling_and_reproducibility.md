@@ -10,12 +10,21 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Omar Khan
 
 ```
 Please write your explanation here...
 
-```
+Sampling Stages
+
+Infection Sampling: 10% of attendees (200 wedding, 800 brunch) are randomly infected based on ATTACK_RATE.
+Primary Contact Tracing: 20% of infected cases are traced randomly, following a Binomial distribution (TRACE_SUCCESS).
+Secondary Tracing: If an event has ≥2 traced cases (SECONDARY_TRACE_THRESHOLD), all infected attendees at that event are traced, introducing bias toward larger gatherings (e.g., weddings).
+Comparison to Blog Post
+Running the code with 50,000 iterations aligns closely with the blog’s histograms, showing a higher trace proportion for weddings due to secondary tracing. Reducing iterations to 1,000 increases variability, making results less consistent.
+
+Reproducibility
+To ensure consistent results, add np.random.seed(42) at the start of the script, which fixes the random sequence across runs.
 
 
 ## Criteria
