@@ -29,6 +29,7 @@ Target Population: Canadian eligible voters, specifically those who are undecide
 Sampling Frame: A database of registered voters in Canada, segmented by demographic factors such as age, region, and political affiliation.
 Sampling Units: Individual eligible voters across various provinces, including urban, suburban, and rural areas.
 Sampling Strategy: A stratified random sampling approach, where we divide the population into key segments (e.g., age, region, political history) to ensure diverse representation. We will use both online surveys and telephone interviews to reach a broad spectrum of voters.
+Observational Units: The observational units are the individual voters who participate in the survey. Each voter will provide responses that help us understand their preferences, concerns, and likelihood of supporting our party.
 ```
 
 Your 5-10 question survey:
