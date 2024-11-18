@@ -16,75 +16,31 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `2`
+The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-The purpose of this survey is to gauge the priorities, concerns, and expectations of Canadian voters as the federal election approaches. By identifying key issues and areas for improvement, the party aims to refine its messaging, policy proposals, and leadership strategies to maintain its lead and secure victory in the forthcoming election.
+write your answer here...
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-Target Population: Canadian eligible voters, specifically those who are undecided, swing voters, or have shown support for our party in previous polling.
-Sampling Frame: A database of registered voters in Canada, segmented by demographic factors such as age, region, and political affiliation.
-Sampling Units: Individual eligible voters across various provinces, including urban, suburban, and rural areas.
-Sampling Strategy: A stratified random sampling approach, where we divide the population into key segments (e.g., age, region, political history) to ensure diverse representation. We will use both online surveys and telephone interviews to reach a broad spectrum of voters.
-Observational Units: The observational units are the individual voters who participate in the survey. Each voter will provide responses that help us understand their preferences, concerns, and likelihood of supporting our party.
+write your answer here...
 ```
 
 Your 5-10 question survey:
 ```
-1. 1. On a scale of 1 to 5, how satisfied are you with the current performance of our party and its leader? (1 being very dissatisfied, 5 being very satisfied)
-
-2. 2. Which of the following issues do you consider the most important in this federal election? (Please select up to 3 issues)
-Economy and job creation
-Healthcare and public health
-Climate change and environmental policies
-National security and defense
-Housing affordability
-Indigenous rights and reconciliation
-Education and youth opportunities
-Other (please specify)
-
-3.  How likely are you to vote for our party in the upcoming election?
-Very likely
-Somewhat likely
-Undecided
-Somewhat unlikely
-Very unlikely
-
-4. What specific policy areas would you like our party to focus on in the final month of the campaign? (Select all that apply)
-Strengthening the economy
-Expanding healthcare services
-Affordable housing initiatives
-Tackling climate change
-Supporting small businesses
-Improving public transportation
-Strengthening national security
-Other (please specify)
-
-5.  How would you rate the leadership qualities of our party leader? (1 being very poor, 5 being excellent)
-1
-2
-3
-4
-5
-
-6. . How important is the issue of trust and integrity in a leader when deciding how you will vote?
-Very important
-Somewhat important
-Not very important
-Not important at all
-
-7. Would you be more likely to vote for our party if we promised to implement the following in the first 100 days after the election? (Select all that apply)
-
-Reducing taxes for middle-class families
-A national housing affordability program
-Strengthening social services
-National climate change action plan
-Increased healthcare funding
-Other (please specify)
-
+1. write your question here...
+2. write your question here...
+3. write your question here...
+4. write your question here...
+5. write your question here...
+6. write your question here... (optional)
+7. write your question here... (optional)
+8. write your question here... (optional)
+9. write your question here... (optional)
+10. write your question here... (optional)
+```
 
 ## Rubric
 
